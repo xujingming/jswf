@@ -7,6 +7,6 @@
     <title></title>
 </head>
 <body>
-    <a href="itms-services://?action=download-manifest&url=https://github.com/xujingming/jswf/blob/master/manifest.plist">安装</a>
+    <a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/xujingming/jswf/master/manifest.plist">安装旅游程序</a>
 </body>
 </html>
